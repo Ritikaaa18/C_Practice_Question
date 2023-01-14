@@ -6,7 +6,7 @@ int main()
     int h =0;
     printf("Enter the number \n");
     scanf("%d",&n);
-    while(h!=3 && h!=1 && h!=2) 
+    while(h!=1) 
     {h=0;
         while(n!=0)
         {
